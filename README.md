@@ -1,9 +1,7 @@
 # DevCode
 
 
-Welcome
-
---------|
+# Wellcome 
 
 ![](https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
 
@@ -17,7 +15,7 @@ Welcome
 
 ```
 
-git clone https://github.com/kipull/DevCode
+git clone https://github.com/Fajar-15/DevCode
 
 cd DevCode
 
@@ -27,7 +25,7 @@ git pull
 
 * **Untuk Jalankan Script Bisa DiKetik :(To run the script, you can type:)**
 
-* ```python dev.py```
+* ```python run.py```
 
 * **Untuk Stop Script Tekan : (To Stop Script Press :)**
 
