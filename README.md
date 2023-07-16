@@ -25,7 +25,7 @@ git pull
 
 * **Untuk Jalankan Script Bisa DiKetik :(To run the script, you can type:)**
 
-* ```python run.py```
+* ```python run2.py```
 
 * **Untuk Stop Script Tekan : (To Stop Script Press :)**
 
